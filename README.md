@@ -1,4 +1,5 @@
 # Matternger
-Bridge between Mattermost and Facebook Messenger. 
+Custom Mattermost endpoint for [Matterbridge](https://github.com/42wim/matterbridge) replacing the native Mattermost support.
 
-Looking for more stable version with less specific functionality, but with ability to bridge between multiple platforms? Use https://github.com/42wim/matterbridge
+# Why?
+Native endpoint doesn't support dynamic channel creation (for each user)
